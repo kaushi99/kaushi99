@@ -9,6 +9,6 @@ I love the challenge of building things from the ground up and figuring out how 
 
 Feel free to reach out if you want to chat about fintech, AI, or building something impactful. I’m always happy to connect!
 
-I share my learnings in [tech](https://engineeringjournal.substack.com/publish/posts) and [finance](https://passiveinvesting.substack.com/publish/posts) on Substack, which helps me dive deeper into these concepts.
+I share my learnings in [tech](https://engineeringjournal.substack.com/publish/posts) and [finance](https://investmentanalytics.substack.com/) on Substack, which helps me dive deeper into these concepts.
 
 
